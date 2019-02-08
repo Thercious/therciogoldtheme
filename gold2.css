@@ -10,6 +10,47 @@
     --accentcolor: #b08d5f; /* Changes the secondary color #7289da default discord color #c95738 for a nice orange */
 }
 
+.theme-dark .homeIcon-1FoKUJ {
+    color: #fff;
+    background-color: #b08d5f;
+}
+
+.guildsAddInner-1KMFy- {
+    color: #b08d5f;
+    position: relative;
+    top: -1px;
+}
+
+.linkButtonIcon-Mlm5d6 {
+    color: #e6b370;
+    -webkit-transition: opacity .05s;
+    height: 24px;
+    margin-right: 18px;
+    opacity: .6;
+    transition: opacity .05s;
+    width: 24px;
+}
+.theme-dark .membersGroup-v9BXpm {
+    color: #8e724c;
+}
+.name-2WpE7M {
+    -ms-flex-positive: 1;
+    -webkit-box-flex: 1;
+    color: #afb3b9;
+    flex-grow: 1;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 20px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.theme-dark .guildsAdd-21_IdK {
+    background: #202225;
+    border-color: #b08d5f;
+}
+
 .messages-3amgkR {
 	background-color: #1f1f1f;
 }
@@ -21,7 +62,7 @@
 	background-color: #fce5c7;
 }
 .theme-dark .divider-3gKybi:not(.dividerRed-MKoLlr) .dividerContent-2L12VI{
-	color:#b08d5f;	
+	color: #b08d5f;	
 }
 .theme-dark .divider-3gKybi:not(.dividerRed-MKoLlr) .dividerContent-2L12VI:after, .theme-dark .divider-3gKybi:not(.dividerRed-MKoLlr) .dividerContent-2L12VI:before {
 	border-color: #b08d5f;
@@ -58,7 +99,7 @@
     width: 5px;
 }
 .iconHovered-2L3-fB, .IconHoveredCollapsed-3caIIZ, .nameHoveredCollapsed-2orEWB {
-color: #fdd094;
+	color: #fdd094;
 }
 
 

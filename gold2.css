@@ -41,9 +41,26 @@
 .name-3YKhmS {
 	color: #f5ca8e;
 }
+.iconMuted-1HVBGH, .nameMuted-1MCOt4 {
+    color: #8e724c;
+}
 .theme-dark .channelName-3stJzi, .theme-dark .groupDM-3qU0Ks .channelName-3stJzi, .theme-dark .groupDMManaged-1GyXtq .channelName-3stJzi, .theme-dark .input-autosize-input, .theme-dark .input-autosize-input:focus {
     color: #fdd094;
 }
+.unread-1Dp-OI {
+    background-color: #b08d5f;
+    border-radius: 0 6px 6px 0;
+    height: 16px;
+    left: 0;
+    margin-top: -8px;
+    position: absolute;
+    top: 50%;
+    width: 5px;
+}
+.iconHovered-2L3-fB, .IconHoveredCollapsed-3caIIZ, .nameHoveredCollapsed-2orEWB {
+color: #fdd094;
+}
+
 
 /*BETTER DISCORD*/
 

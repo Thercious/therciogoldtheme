@@ -1,4 +1,4 @@
-:root{
+:global{
      --avatars: 50%;
     /* Set to "10%" if you want square pfps "50%" for round */
      --borders: 0;
@@ -84,14 +84,13 @@
  .iconHovered-2L3-fB, .IconHoveredCollapsed-3caIIZ, .nameHoveredCollapsed-2orEWB {
      color: #fdd094;
 }
-/*BETTER DISCORD*/
+/* BETTER DISCORD */
  .theme-dark #bd-settings-sidebar .ui-tab-bar-item.selected {
      background-color: #b08d5f;
      color: #fff;
 }
  #bd-settings-sidebar .ui-tab-bar-item {
-	 /* background-color: rgba(51,51,51,.6);
-     */
+	background-color: transparent;
     /* box-shadow: inset 0 -1px 3px rgba(0,0,0,.3);
      */
      color: #b9bbbe;

@@ -1,4 +1,4 @@
-:root{
+:global{
     --avatars: 50%; /* Set to "10%" if you want square pfps "50%" for round */
     --borders: 0; /* Set to "0" for round borders, "1" for square */
     --chatanim: 1; /* Change to "1" to enable a chat animation when clicking into a chat "0" to disable */

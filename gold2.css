@@ -81,9 +81,9 @@
      top: 50%;
      width: 5px;
 }
- .iconHovered-2L3-fB, .IconHoveredCollapsed-3caIIZ, .nameHoveredCollapsed-2orEWB {
+ /*.iconHovered-2L3-fB, .IconHoveredCollapsed-3caIIZ, .nameHoveredCollapsed-2orEWB {
      color: #fdd094;
-}
+}*/
 /* BETTER DISCORD */
  .theme-dark #bd-settings-sidebar .ui-tab-bar-item.selected {
      background-color: #b08d5f;
@@ -154,6 +154,7 @@
  .container-2lgZY8{
      background-color:var(--chatbackground) 
 }
+
  ::-webkit-scrollbar-thumb{
      border:4px solid transparent!important;
      background-color:rgba(225,225,225,0.1)!important;

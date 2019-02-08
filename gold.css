@@ -33,7 +33,7 @@
 }
 /*BARRA DE FUNÇÕES*/
 .theme-dark .iconForeground-3y9f0B, .theme-dark .title-1aVOXw{
-	color: #e0b071;
+	color: var(--botoes);
 }
 /*MENSAGENS PRIVADAS*/
 .channel-2QD9_O a {
@@ -50,24 +50,24 @@
 }
 /* ÍCONE - CRIAR SERVIDOR*/
 .guildsAddInner-1KMFy- {
-	color: #e0b071;
+	color: var(--botoes);
 }
 .theme-dark .guildsAdd-21_IdK {
     background: #202225;
-    border-color: #e0b071;
+    border-color: var(--botoes);
     color: #535559;
 }
 /* SERVIDOR */
 /* NOME*/
 .name-3YKhmS {
-    color: #e0b071;
+    color: var(--botoes);
 }
 /*CONVITE*/
 .theme-dark .item-1GzJrl.invite-271nFU {
-    color: #e0b071;
+    color: var(--botoes);
 }
 .icon-2doZ3q{
-    color: #e0b071;
+    color: var(--botoes);
 }
 /*DATA E SEPARADOR*/
 .theme-dark .divider-3gKybi:not(.dividerRed-MKoLlr) .dividerContent-2L12VI {
@@ -138,10 +138,10 @@
 }
 /* CANAL ATUAL e ÍCONE*/
 .channelIcon-MsmKOO {
-    color: #e0b071;
+    color: var(--botoes);
 }
 .theme-dark .channelName-3stJzi{
-    color: #e0b071;
+    color: var(--botoes);
 }
 /* MEMBROS*/
 .theme-dark .membersGroup-v9BXpm {
@@ -154,7 +154,7 @@
 /*ATIVIDADE*/
 .activity-1IYsbk strong {
     font-weight: 600;
-    color: #e0b071;
+    color: var(--botoes);
 }
 /* MENU DE CONFIGURAÇÕES*/
 /*CATEGORIAS*/
@@ -168,7 +168,7 @@
 }
 /*LINKS*/
 .theme-dark .card-3Qj_Yx a {
-    color: #e0b071;
+    color: var(--botoes);
 }
 /*VÍDEO*/
 .lookFilled-1Gx00P.colorBrand-3pXr91:disabled {
@@ -217,18 +217,18 @@
 }
 /*MIC, AUDIO E CONFIGURAÇÕES*/
 .accountDetails-3k9g4n .username {
-    color: #e0b071;
+    color: var(--botoes);
 }
 .accountDetails-3k9g4n .discriminator {
-    color: #e0b071;
+    color: var(--botoes);
 	opacity: 0.8;
 }
 .theme-dark .button-2b6hmh, .theme-light .button-2b6hmh {
-    color: #e0b071 !important;
+    color: var(--botoes) !important;
 }
 /*MENSAGENS FIXAS E MARCAÇÕES*/
 .theme-dark .header-ykumBX .title-3pkaKd {
-    color: #e0b071;
+    color: var(--botoes);
 }
 /*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
 /*                 BOTÕES ANIMADOS                 */

@@ -38,11 +38,7 @@
     background: var(--accentcolor);
 }
 #bd-settings-sidebar .ui-tab-bar-item {
-    /* background-color: rgba(51,51,51,.6); */
-    /* box-shadow: inset 0 -1px 3px rgba(0,0,0,.3); */
-    color: #b9bbbe;
-    border-radius: calc(0px * var(--borders) + 20px * (1 - var(--borders)));
-    transition: background-color .3s ease-in-out;
+    border-radius: calc(0px * var(--borders) + 4px * (1 - var(--borders)));
 }
 .bda-slist .bda-footer button {
     background-color: var(--accentcolor);
@@ -238,6 +234,10 @@
 .lookFilled-1Gx00P.colorBrand-3pXr91 {
     background-color: var(--accentcolor);
     color: #fff;
+}
+/* CARD*/
+.cardPrimaryEditable-3KtE4g[style*="background-color: rgb(114, 137, 218);"] {
+    background-color: var(--accentcolor)!important;
 }
 /*TEXTO ESCURO*/
 .theme-dark .h5-18_1nd {

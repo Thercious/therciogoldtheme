@@ -73,7 +73,8 @@
 /*CHAR-COUNTER*/
 #charcounter {
     color:  var(--accentcolor);
-	font-size: 9px;
+	padding: 5px;
+	font-size: 16px;
 }
 /*MENSAGENS PRIVADAS*/
 .privateChannels-1nO12o header {

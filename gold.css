@@ -8,7 +8,7 @@
 .side-8zPYf6 {
     background: url(https://i.imgur.com/oOapTtx.png) no-repeat;
     background-size: 100%;
-    padding-top: 25px;
+    padding-top: 15px;
 }
 /*BETTER DISCORD*/
 
@@ -203,10 +203,6 @@
     color: var(--accentcolor);
 }
 /*NITRO*/
-.theme-dark .itemDefault-3Jdr52, .theme-dark .itemHover-1qLhcL {
-    color: #b9bbbe;
-	opacity: 0.2;
-}
 .side-8zPYf6 .itemSelected-1qLhcL {
     background-color: var(--accentcolor) !important;
     color: #fff;

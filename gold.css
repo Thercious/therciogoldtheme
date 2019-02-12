@@ -33,12 +33,10 @@
     transform: scale(1.04);
     background-color: var(--accentcolor);
     transition: all .2s ease-in-out;
+	    border-radius: calc(0px * var(--borders) + 4px * (1 - var(--borders)));
 }
 #bd-settingspane-container .ui-switch-item .ui-switch-wrapper .ui-switch.checked {
     background: var(--accentcolor);
-}
-#bd-settings-sidebar .ui-tab-bar-item {
-    border-radius: calc(0px * var(--borders) + 4px * (1 - var(--borders)));
 }
 .bda-slist .bda-footer button {
     background-color: var(--accentcolor);
@@ -238,6 +236,7 @@
 /* CARD*/
 .cardPrimaryEditable-3KtE4g[style*="background-color: rgb(114, 137, 218);"] {
     background-color: var(--accentcolor)!important;
+	border-color: var(--accentcolor)!important;
 }
 /*TEXTO ESCURO*/
 .theme-dark .h5-18_1nd {

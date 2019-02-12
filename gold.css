@@ -49,6 +49,14 @@
 .anchor-3Z-8Bb {
     color: var(--accentcolor);
 }
+.tabBar-1E2ExX .primary-3j8BhM {
+    background-color: var(--accentcolor)!important;
+    color: #fff!important;
+}
+.tabBar-1E2ExX .primarySelected-3uHKZn {
+    background-color: #fff!important;
+    color: var(--accentcolor)!important;
+}
 /*BARRA DE FUNÇÕES*/
 .theme-dark .iconForeground-3y9f0B, .theme-dark .title-1aVOXw{
 	color: var(--botoes);
@@ -69,9 +77,6 @@
 	opacity: .8;
 }
 .channel-2QD9_O.name-2WpE7M, .channel-2QD9_O.nameWrapper-10v56U, .channel-2QD9_O:hover .name-2WpE7M, .channel-2QD9_O:hover .nameWrapper-10v56U {
-    color: #fff;
-}
-.channel-2QD9_O.selected-1HYmZZ{
 	color: var(--accentcolor);
 }
 .channel-2QD9_O:hover {

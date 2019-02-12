@@ -68,6 +68,9 @@
 	color: var(--accentcolor);
 	opacity: .8;
 }
+.channel-2QD9_O.name-2WpE7M, .channel-2QD9_O.nameWrapper-10v56U, .channel-2QD9_O:hover .name-2WpE7M, .channel-2QD9_O:hover .nameWrapper-10v56U {
+	color: var(--accentcolor);
+}
 .channel-2QD9_O.selected-1HYmZZ{
 	color: var(--accentcolor);
 }

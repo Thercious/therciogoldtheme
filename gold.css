@@ -38,6 +38,10 @@
 .theme-dark .homeIcon-1FoKUJ {
     background-color: var(--accentcolor);
 }
+/* LOADING */
+.anchor-3Z-8Bb {
+    color: var(--accentcolor);
+}
 /*BARRA DE FUNÇÕES*/
 .theme-dark .iconForeground-3y9f0B, .theme-dark .title-1aVOXw{
 	color: var(--botoes);
@@ -45,6 +49,10 @@
 /*MENSAGENS PRIVADAS*/
 .channel-2QD9_O a {
 	color: var(--accentcolor);
+}
+.name-2WpE7M {
+    color:  var(--accentcolor);
+	opacity: 0.3;
 }
 
 /*MENSAGENS PRIVADAS*/
@@ -209,6 +217,9 @@
 /*CHECK-BOXES*/
 .themeDefault-24hCdX.valueChecked-m-4IJZ {
     background-color: var(--accentcolor);
+}
+.checkboxElement-1qV33p:checked+span{
+	background-color: var(--accentcolor);
 }
 /*DIVISORES*/
 .theme-dark .divider-3573oO {

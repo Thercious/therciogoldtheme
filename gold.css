@@ -9,13 +9,18 @@
 #bd-settingspane-container .ui-switch-item .ui-switch-wrapper input {
     background-color: var(--accentcolor);
 }
-
+.theme-dark #bd-settings-sidebar .ui-tab-bar-header {
+    color: var(--accentcolor);
+	opacity: 0.4;
+}
 #bd-se
-.theme-dark #bd-settings-sidebar .ui-tab-bar-item.selected {
+.theme-dark .ui-tab-bar-item.selected {
     background-color: var(--accentcolor);
     color: #fff;
 }
-
+#bd-settingspane-container .ui-switch-item .ui-switch-wrapper .ui-switch.checked {
+    background: var(--accentcolor);
+}
 #bd-settings-sidebar .ui-tab-bar-item {
     /* background-color: rgba(51,51,51,.6); */
     /* box-shadow: inset 0 -1px 3px rgba(0,0,0,.3); */

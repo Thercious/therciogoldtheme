@@ -69,13 +69,13 @@
 	opacity: .8;
 }
 .channel-2QD9_O.name-2WpE7M, .channel-2QD9_O.nameWrapper-10v56U, .channel-2QD9_O:hover .name-2WpE7M, .channel-2QD9_O:hover .nameWrapper-10v56U {
-	color: var(--accentcolor);
+    color: #fff;
 }
 .channel-2QD9_O.selected-1HYmZZ{
 	color: var(--accentcolor);
 }
 .channel-2QD9_O:hover {
-    color: #fff;
+	color: var(--accentcolor);
 }
 /* ÍCONE - CRIAR SERVIDOR*/
 .guildsAddInner-1KMFy- {

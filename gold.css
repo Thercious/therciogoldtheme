@@ -57,6 +57,9 @@
     background-color: #fff!important;
     color: var(--accentcolor)!important;
 }
+.theme-dark .topPill-30KHOu .itemSelected-1qLhcL {
+    color: #fff;
+}
 /*BARRA DE FUNÇÕES*/
 .theme-dark .iconForeground-3y9f0B, .theme-dark .title-1aVOXw{
 	color: var(--botoes);

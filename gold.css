@@ -73,7 +73,7 @@
 /*CHAR-COUNTER*/
 #charcounter {
     color:  var(--accentcolor);
-	padding: -5px;
+	padding-top: -15px;
 	font-size: 14px;
 }
 /*MENSAGENS PRIVADAS*/

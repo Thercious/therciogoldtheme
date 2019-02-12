@@ -1,6 +1,8 @@
 :root {
     --accentcolor: #b08d5f;
 	--botoes: #e0b071;
+	--bg1: #202225;
+	--bg2: #535559;
 }
 /*BETTER DISCORD*/
 
@@ -53,9 +55,9 @@
 	color: var(--botoes);
 }
 .theme-dark .guildsAdd-21_IdK {
-    background: #202225;
+    background: var(--bg1);
     border-color: var(--botoes);
-    color: #535559;
+    color: var(--bg2);
 }
 /* SERVIDOR */
 /* NOME*/

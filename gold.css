@@ -164,6 +164,10 @@
     color: var(--accentcolor);
 }
 /*NITRO*/
+.theme-dark .itemDefault-3Jdr52, .theme-dark .itemHover-1qLhcL {
+    color: #b9bbbe;
+	opacity: 0.2;
+}
 .side-8zPYf6 .itemSelected-1qLhcL {
     background-color: var(--accentcolor) !important;
     color: #fff;
@@ -198,19 +202,8 @@
 .theme-dark .cardPrimaryEditable-3KtE4g {
 }
 /*CHECK-BOXES*/
-.checkboxEnabled-CtinEn {
-    cursor: pointer;
-}
-
-.checkbox-2tyjJg {
-    height: 100%;
-    margin: 0;
-    opacity: 0;
-    padding: 0;
-    position: absolute;
-    width: 100%;
-    z-index: 2;
-    color: var(--accentcolor) !important;
+.themeDefault-24hCdX.valueChecked-m-4IJZ {
+    background-color: var(--accentcolor);
 }
 /*DIVISORES*/
 .theme-dark .divider-3573oO {

@@ -199,7 +199,11 @@
 #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(8){
     color: var(--accentcolor);
 }
-#user-settings .side-8zPYf6 .item-PXvHYJ.itemSelected-1qLhcL:nth-child(8){
+#user-settings .side-8zPYf6 .item-PXvHYJ .itemSelected-1qLhcL:nth-child(8){
+color: FFF;
+background-color: var(--accentcolor);
+}
+#user-settings .side-8zPYf6 .item-PXvHYJ .itemSelected-1qLhcL{
 color: FFF;
 background-color: var(--accentcolor);
 }

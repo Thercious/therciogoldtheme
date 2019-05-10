@@ -44,6 +44,7 @@
 /*ÍCONE*/
 .theme-dark .button-OhfaWu {
     background-color: var(--accentcolor);
+	opacity: 0.4;
 }
 .theme-dark .button-OhfaWu.selected-wSa2KV{
     background-color: var(--accentcolor);
@@ -322,11 +323,23 @@
     height: 100%;
 }
 /* NEW SERVER AND SEARCH SERVER ICONS */
-.circleIconButton-jET_ig:{
+.circleIconButton-jET_ig{
+    color: var(--accentcolor);
+	background-color: #292b2f;
+}
+.circleIconButton-jET_ig:hover{
     color: var(--accentcolor);
 	background-color: #292b2f;
 }
 .circleIconButton-jET_ig.selected-ugP_am {
 	color: #292b2f;
 	background-color: var(--accentcolor);
+}
+/* BOTÃO DA LOJA */
+.lookFilled-1Gx00P.colorGreen-29iAKY {
+    color: #fff;
+    background-color: #202225;
+}
+.lookFilled-1Gx00P.colorGreen-29iAKY:hover {
+    background-color: var(--accentcolor);
 }

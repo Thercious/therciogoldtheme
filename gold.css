@@ -211,10 +211,20 @@
 .theme-dark .header-2RyJ0Y {
     color: var(--accentcolor);
 }
-/*NITRO*/
-.side-8zPYf6 .item-PXvHYJ .itemSelected-1qLhcL {
+/* NITRO */
+.item-PXvHYJ{
+	color: var(--accentcolor) !important;
+}
+.item-PXvHYJ .itemSelected-1qLhcL {
+color: FFF;
+background-color: var(--accentcolor) !important;
+}
+/* NITRO2 */
+.lookFilled-1Gx00P.colorGreen-29iAKY:active {
     background-color: var(--accentcolor) !important;
-    color: #fff;
+}
+.lookFilled-1Gx00P.colorGreen-29iAKY:hover {
+    background-color: #3ca374;
 }
 /*LINKS*/
 .theme-dark .card-3Qj_Yx a {
@@ -296,6 +306,11 @@
 /*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
 /*                 BOTÕES ANIMADOS                 */
 /*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
+/* verde */
+.colorGreen-29iAKY{
+	background-color: var(--accentcolor)!important;
+}
+
 /* BOTÃO 1 */
 .lookFilled-1Gx00P.colorBrand-3pXr91:active {
     background-color: var(--accentcolor);

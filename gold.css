@@ -42,7 +42,7 @@
 	background-color: var(--accentcolor);
 }
 /*ÍCONE*/
-.theme-dark .homeIcon-1FoKUJ {
+.theme-dark .button-OhfaWu{
     background-color: var(--accentcolor);
 }
 /* LOADING e LINKS */
@@ -336,11 +336,11 @@
     height: 100%;
 }
 /* NEW SERVER AND SEARCH SERVER ICONS */
-.circleIconButton-jET_ig:active {
+.circleIconButton-jET_ig:{
     color: var(--accentcolor);
 	background-color: #292b2f;
 }
-.circleIconButton-jET_ig .selected-ugP_am:active {
-    color: #292b2f;
+.circleIconButton-jET_ig.selected-ugP_am{
+	color: #292b2f;
 	background-color: var(--accentcolor);
 }

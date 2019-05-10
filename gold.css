@@ -199,9 +199,8 @@
 #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(8){
     color: var(--accentcolor)!important;
 }
-#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(8):active{
-color: FFF;
-background-color: var(--accentcolor)!important;
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(8):hover{
+	background-color: #292b2f!important;
 }
 
 /* NITRO2 */

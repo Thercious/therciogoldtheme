@@ -336,11 +336,11 @@
     height: 100%;
 }
 /* NEW SERVER AND SEARCH SERVER ICONS */
-.circleIconButton-jET_ig {
+.circleIconButton-jET_ig:active {
     color: var(--accentcolor);
 	background-color: #292b2f;
 }
-.circleIconButton-jET_ig .selected-ugP_am {
+.circleIconButton-jET_ig .selected-ugP_am:active {
     color: #292b2f;
 	background-color: var(--accentcolor);
 }

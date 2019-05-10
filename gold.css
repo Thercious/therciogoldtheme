@@ -326,7 +326,7 @@
     height: 100%;
 }
 /* NEW SERVER AND SEARCH SERVER ICONS */
-.circleIconButton-jET_ig {
+.circleIconButton-jET_ig [style*="color: #43b581;"]{
     color: var(--accentcolor);
 	background-color: #292b2f;
 }
@@ -334,7 +334,7 @@
 	color: #292b2f;
 	background-color: var(--accentcolor);
 }
-.circleIconButton-jET_ig .selected-ugP_am {
+.circleIconButton-jET_ig .selected-ugP_am [style*="color: #43b581;"]{
 	color: #292b2f !important;
 	background-color: var(--accentcolor) ;
 }

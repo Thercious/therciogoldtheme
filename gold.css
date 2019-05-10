@@ -164,6 +164,10 @@
     /* background-color: #2f3136; */
     color: #d0a163;
 }
+/* CATEGORIAS */
+.wrapper-CU3qI5{
+	color: var(--accentcolor);
+}
 /* CANAL ATUAL e ÍCONE*/
 .channelIcon-MsmKOO {
     color: var(--botoes);
@@ -272,12 +276,11 @@
     color: var(--botoes);
 	opacity: 0.8;
 }
-.theme-dark .button-2b6hmh, .theme-light .button-2b6hmh {
+.theme-dark .button-2b6hmh{
     color: var(--botoes) !important;
+	background-image: url("/assets/4bc527c257233fc69b94342d77bcb9ee.svg");
 }
-.flex-1xMQg5 .flex-1O1GKY .horizontal-1ae9ci .horizontal-2EEEnY .flex-1O1GKY .directionRow-3v3tfG .justifyStart-2NDFzi .alignStretch-DpGPf3 .noWrap-3jynv6{
-	color: var(--botoes) !important;
-}
+
 /*MENSAGENS FIXAS E MARCAÇÕES*/
 .theme-dark .header-ykumBX .title-3pkaKd {
     color: var(--botoes);
@@ -333,17 +336,17 @@
     height: 100%;
 }
 /* NEW SERVER AND SEARCH SERVER ICONS */
-.circleIconButton-jET_ig [style*="color: #43b581;"]{
-    color: var(--accentcolor);
-	background-color: #292b2f;
+.circleIconButton-jET_ig {
+    color: var(--accentcolor) !important;
+	background-color: #292b2f !important;
 }
 .circleIconButton-jET_ig:hover{
-	color: #292b2f;
-	background-color: var(--accentcolor);
-}
-.circleIconButton-jET_ig .selected-ugP_am [style*="color: #43b581;"]{
 	color: #292b2f !important;
-	background-color: var(--accentcolor) ;
+	background-color: var(--accentcolor) !important;
+}
+.circleIconButton-jET_ig .selected-ugP_am:focus{
+	color: #292b2f !important;
+	background-color: var(--accentcolor) !important;
 }
 /* BOTÃO DA LOJA */
 .lookFilled-1Gx00P.colorGreen-29iAKY {

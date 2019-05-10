@@ -327,16 +327,16 @@
 }
 /* NEW SERVER AND SEARCH SERVER ICONS */
 .circleIconButton-jET_ig {
-    color: var(--accentcolor) !important;
-	background-color: #292b2f !important;
+    color: var(--accentcolor);
+	background-color: #292b2f;
 }
 .circleIconButton-jET_ig:hover{
-    color: var(--accentcolor) !important;
-	background-color: #292b2f !important;
+	color: #292b2f;
+	background-color: var(--accentcolor);
 }
-.circleIconButton-jET_ig.selected-ugP_am {
+.circleIconButton-jET_ig .selected-ugP_am {
 	color: #292b2f !important;
-	background-color: var(--accentcolor) !important;
+	background-color: var(--accentcolor) ;
 }
 /* BOTÃO DA LOJA */
 .lookFilled-1Gx00P.colorGreen-29iAKY {

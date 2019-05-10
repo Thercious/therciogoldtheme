@@ -196,14 +196,10 @@
     color: var(--accentcolor);
 }
 /* NITRO */
-.itemBrand-mC9YR4 {
-    color: #1347ff;
-}
-element.style {
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(8){
     color: var(--accentcolor) !important;;
 }
-
-.item-PXvHYJ .itemSelected-1qLhcL {
+#user-settings .side-8zPYf6 .item-PXvHYJ.itemSelected-1qLhcL:nth-child(8){
 color: FFF;
 background-color: var(--accentcolor) !important;
 }

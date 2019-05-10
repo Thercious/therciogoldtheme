@@ -139,7 +139,7 @@
     background-color: rgba(218, 181, 114, 0.7);
 }
 .newMessagesBar-mujexs:hover {
-    background-color: rgba(218, 181, 114, 1);
+    background-color: #B08D5F;
 }
 .newMessagesBar-mujexs button:last-child {
     -webkit-transition: color .2s;

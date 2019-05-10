@@ -17,7 +17,6 @@
 }
 .theme-dark #bd-settings-sidebar .ui-tab-bar-header {
     color: var(--accentcolor);
-	opacity: 0.4;
 }
 .theme-dark #bd-settings-sidebar .ui-tab-bar-item.selected {
     background-color: var(--accentcolor);
@@ -42,9 +41,9 @@
 	background-color: var(--accentcolor);
 }
 /*ÍCONE*/
-.theme-dark .button-OhfaWu {
+/* .theme-dark .button-OhfaWu {
     background-color: var(--accentcolor);
-}
+}*/
 .theme-dark .button-OhfaWu.selected-wSa2KV{
     background-color: var(--accentcolor);
 }
@@ -197,6 +196,9 @@
     color: var(--accentcolor);
 }
 /* NITRO */
+.itemBrand-mC9YR4 {
+    color: #1347ff;
+}
 .item-PXvHYJ .itemSelected-1qLhcL {
 color: FFF;
 background-color: var(--accentcolor) !important;
@@ -321,16 +323,16 @@ background-color: var(--accentcolor) !important;
 }
 /* NEW SERVER AND SEARCH SERVER ICONS */
 .circleIconButton-jET_ig{
-    color: var(--accentcolor);
-	background-color: #292b2f;
+    color: var(--accentcolor) !important;
+	background-color: #292b2f !important;
 }
 .circleIconButton-jET_ig:hover{
-    color: var(--accentcolor);
-	background-color: #292b2f;
+    color: var(--accentcolor) !important;
+	background-color: #292b2f !important;
 }
 .circleIconButton-jET_ig.selected-ugP_am {
-	color: #292b2f;
-	background-color: var(--accentcolor);
+	color: #292b2f !important;
+	background-color: var(--accentcolor) !important;
 }
 /* BOTÃO DA LOJA */
 .lookFilled-1Gx00P.colorGreen-29iAKY {

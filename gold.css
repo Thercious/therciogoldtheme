@@ -202,6 +202,10 @@
 #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(8):hover{
 	background-color: #292b2f!important;
 }
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(8):focus{
+	color: #FFF !important;
+    background-color: var(--accentcolor)!important;
+}
 
 /* NITRO2 */
 .lookFilled-1Gx00P.colorGreen-29iAKY:active {

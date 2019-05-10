@@ -179,6 +179,10 @@
 	color: var(--accentcolor);
     background: #2f3136;
 }
+/* POPOUT DE ATIVIDADE */
+.activity-11LB_k {
+    background-color: rgb(38, 38, 38, 0.9);
+}
 /*CANAL DE VOZ*/
 .users-i_3-kL {
     background-color: var(--accentcolor);
@@ -270,6 +274,9 @@
 }
 .theme-dark .button-2b6hmh, .theme-light .button-2b6hmh {
     color: var(--botoes) !important;
+}
+.flex-1xMQg5 .flex-1O1GKY .horizontal-1ae9ci .horizontal-2EEEnY .flex-1O1GKY .directionRow-3v3tfG .justifyStart-2NDFzi .alignStretch-DpGPf3 .noWrap-3jynv6{
+	color: var(--botoes) !important;
 }
 /*MENSAGENS FIXAS E MARCAÇÕES*/
 .theme-dark .header-ykumBX .title-3pkaKd {

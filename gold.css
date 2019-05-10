@@ -208,6 +208,12 @@
 	color: var(--accentcolor);
     background: #2f3136;
 }
+/*CANAL DE VOZ*/
+.users-i_3-kL {
+    background-color: var(--accentcolor);
+	color: #262626;
+	font-weight: 600;
+}
 /*ATIVIDADE*/
 .activity-1IYsbk strong {
     font-weight: 600;

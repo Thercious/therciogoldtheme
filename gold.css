@@ -201,8 +201,7 @@
 /* MENU DE CONFIGURAÇÕES*/
 /* PLANO DE FUNDO */
 .sidebarRegionScroller-3MXcoP{
-	background-image: url(https://raw.githack.com/Thercious/therciogoldtheme/master/Vertical.svg), opacity: 0.5;
-	height: 80vh;
+	background-image: url(https://raw.githack.com/Thercious/therciogoldtheme/master/Vertical.svg);
 	background-repeat: no-repeat;
 }
 /*CATEGORIAS*/

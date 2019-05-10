@@ -335,11 +335,12 @@
     background: var(--accentcolor);
     height: 100%;
 }
-/* NEW SERVER */
+/* NEW SERVER AND SEARCH SERVER ICONS */
 .circleIconButton-jET_ig {
     color: var(--accentcolor);
+	background-color: #292b2f;
 }
-.circleIconButton-jET_ig .SELECTED-UGp_AM {
+.circleIconButton-jET_ig .selected-ugP_am {
     color: #292b2f;
 	background-color: var(--accentcolor);
 }

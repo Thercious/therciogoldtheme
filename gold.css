@@ -199,6 +199,10 @@
     color: var(--botoes);
 }
 /* MENU DE CONFIGURAÇÕES*/
+/* PLANO DE FUNDO */
+.sidebarRegionScroller-3MXcoP{
+	background-image: url(https://uploads-ssl.webflow.com/5c46381e54bc901a4334f884/5c4744cd18f01b7a3c347d7e_Ativo%207.svg);
+}
 /*CATEGORIAS*/
 .theme-dark .header-2RyJ0Y {
     color: var(--accentcolor);

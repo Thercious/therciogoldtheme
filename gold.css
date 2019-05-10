@@ -42,7 +42,10 @@
 	background-color: var(--accentcolor);
 }
 /*ÍCONE*/
-.theme-dark .button-OhfaWu{
+.theme-dark .button-OhfaWu {
+    background-color: var(--accentcolor);
+}
+.theme-dark .button-OhfaWu.selected-wSa2KV{
     background-color: var(--accentcolor);
 }
 /* LOADING e LINKS */
@@ -134,7 +137,7 @@
 /*MENSAGENS NÃO LIDAS - BARRA DO CHAT*/
 .newMessagesBar-mujexs {
     /* -webkit-transition: background-color .2s; */
-    background-color: rgba(218, 181, 114, 1);
+    background-color: rgba(218, 181, 114, 0.9);
     border-radius: 0 0 5px 5px;
     color: #fff;
     cursor: pointer;
@@ -151,23 +154,7 @@
     z-index: 2;
 }
 .newMessagesBar-mujexs:hover {
-    -webkit-transition: background-color .2s;
-    background-color: rgba(218, 181, 114, 0.9);
-	
-    border-radius: 0 0 5px 5px;
-    color: #fff;
-    cursor: pointer;
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    font-weight: 400;
-    left: 20px;
-    position: absolute;
-    right: 20px;
-    text-transform: capitalize;
-    top: 0;
-    transition: background-color .2s;
-    z-index: 2;
+    background-color: rgba(218, 181, 114, 1);
 }
 .newMessagesBar-mujexs button:last-child {
     -webkit-transition: color .2s;
@@ -339,7 +326,7 @@
     color: var(--accentcolor);
 	background-color: #292b2f;
 }
-.circleIconButton-jET_ig.selected-ugP_am:hover{
-	color: #292b2f  !important;
-	background-color: var(--accentcolor)  !important;
+.circleIconButton-jET_ig.selected-ugP_am {
+	color: #292b2f;
+	background-color: var(--accentcolor);
 }

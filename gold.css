@@ -137,21 +137,7 @@
 /*MENSAGENS NÃO LIDAS - BARRA DO CHAT*/
 .newMessagesBar-mujexs {
     /* -webkit-transition: background-color .2s; */
-    background-color: rgba(218, 181, 114, 0.9);
-    border-radius: 0 0 5px 5px;
-    color: #fff;
-    cursor: pointer;
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    font-weight: 400;
-    left: 20px;
-    position: absolute;
-    right: 20px;
-    text-transform: capitalize;
-    top: 0;
-    /* transition: background-color .2s; */
-    z-index: 2;
+    background-color: rgba(218, 181, 114, 0.7);
 }
 .newMessagesBar-mujexs:hover {
     background-color: rgba(218, 181, 114, 1);

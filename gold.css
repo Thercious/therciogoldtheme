@@ -349,11 +349,8 @@
 	background-color: var(--accentcolor) !important;
 }
 /* NOVO SERVIDOR - JANELA DE CRIAÇÃO */
-.theme-dark .input-cIJ7To:hover {
+.inputDefault-_djjkz .input-cIJ7To .size16-14cGz5 .input-1mgnkM{
     color: var(--accentcolor);!important;
-}
-.theme-dark .input-cIJ7To{
-    color: #FFF;!important;
 }
 /* BOTÃO DA LOJA */
 .lookFilled-1Gx00P.colorGreen-29iAKY {

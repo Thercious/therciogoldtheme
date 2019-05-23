@@ -350,10 +350,10 @@
 }
 /* NOVO SERVIDOR - JANELA DE CRIAÇÃO */
 .theme-dark .input-cIJ7To:hover {
-    color: var(--accentcolor);
+    color: var(--accentcolor);!important;
 }
 .theme-dark .input-cIJ7To{
-    color: #FFF;
+    color: #FFF;!important;
 }
 /* BOTÃO DA LOJA */
 .lookFilled-1Gx00P.colorGreen-29iAKY {

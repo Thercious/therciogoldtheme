@@ -349,8 +349,8 @@
 	background-color: var(--accentcolor) !important;
 }
 /* NOVO SERVIDOR - JANELA DE CRIAÇÃO */
-.inputDefault-_djjkz .input-cIJ7To .size16-14cGz5 .input-1mgnkM{
-    color: var(--accentcolor);!important;
+.theme-light .input-1mgnkM {
+    color: var(--accentcolor) !important;
 }
 /* BOTÃO DA LOJA */
 .lookFilled-1Gx00P.colorGreen-29iAKY {

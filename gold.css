@@ -199,11 +199,6 @@
     color: var(--botoes);
 }
 /* MENU DE CONFIGURAÇÕES*/
-/* PLANO DE FUNDO */
-.sidebarRegionScroller-3MXcoP{
-	background-image: url(https://i.imgur.com/kBLnQMD.png) no-repeat;
-	background-size: 100%;
-}
 /*CATEGORIAS*/
 .theme-dark .header-2RyJ0Y {
     color: var(--accentcolor);
@@ -352,6 +347,13 @@
 .circleIconButton-jET_ig .selected-ugP_am:focus{
 	color: #292b2f !important;
 	background-color: var(--accentcolor) !important;
+}
+/* NOVO SERVIDOR - JANELA DE CRIAÇÃO */
+.theme-dark .input-cIJ7To:hover {
+    color: var(--accentcolor);
+}
+.theme-dark .input-cIJ7To{
+    color: #FFF;
 }
 /* BOTÃO DA LOJA */
 .lookFilled-1Gx00P.colorGreen-29iAKY {

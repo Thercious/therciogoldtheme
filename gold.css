@@ -40,6 +40,18 @@
 #bd-settingspane-container .ui-switch-item .ui-switch-wrapper input{
 	background-color: var(--accentcolor);
 }
+.bd-modal-wrapper .footer button:active {
+    background-color: var(--accentcolor);
+}
+.bd-modal-wrapper .footer button:hover {
+    background-color: var(--botoes);
+}
+.bd-modal-wrapper .footer button {
+    background-color: var(--accentcolor);
+}
+#a {
+	color: var(--botoes);
+}
 /*ÍCONE*/
 /* .theme-dark .button-OhfaWu {
     background-color: var(--accentcolor);

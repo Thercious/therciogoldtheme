@@ -19,12 +19,12 @@
     color: var(--accentcolor);
 }
 .theme-dark #bd-settings-sidebar .ui-tab-bar-item.selected {
-    background-color: var(--accentcolor);
+    background-color: var(--accentcolor)!important;
     color: #fff;
 	border-radius: 3px !important;
 }
 .bd-pfbtn {
-    background: var(--accentcolor);
+    background: var(--accentcolor)!important;
     color: #FFF;
     border-radius: calc(0px * var(--borders) + 20px * (1 - var(--borders)));
 }
@@ -41,16 +41,16 @@
 	background-color: var(--accentcolor);
 }
 .bd-modal-wrapper .footer button:active {
-    background-color: var(--accentcolor);
+    background-color: var(--accentcolor)!important;
 }
 .bd-modal-wrapper .footer button:hover {
-    background-color: var(--botoes);
+    background-color: var(--botoes)!important;
 }
 .bd-modal-wrapper .footer button {
-    background-color: var(--accentcolor);
+    background-color: var(--accentcolor)!important;
 }
 #a {
-	color: var(--botoes);
+	color: var(--botoes)!important;
 }
 /*ÍCONE*/
 /* .theme-dark .button-OhfaWu {
@@ -344,7 +344,7 @@
 }
 /* VOLUME BAR*/
 .barFill-23-gu- {
-    background: var(--accentcolor);
+    background: var(--accentcolor)!important;
     height: 100%;
 }
 /* NEW SERVER AND SEARCH SERVER ICONS */
@@ -368,28 +368,28 @@
     color: var(--accentcolor);
 }
 .avatarUploaderInner-3UNxY3{
-	background-color: var(--accentcolor);
+	background-color: var(--accentcolor)!important;
 }
 .theme-light .input-cIJ7To:focus{
-	border-color: var(--accentcolor);
+	border-color: var(--accentcolor)!important;
 }
 .theme-light .input-1mgnkM {
-    color: #FFF;
+    color: #FFF!important;
 }
 .regionSelect-3lf4eE button {
-	color: var(--accentcolor);
+	color: var(--accentcolor)!important;
 }
 .theme-dark .header-3ZP1MY, .theme-light .header-3ZP1MY {
-    color: var(--accentcolor);
+    color: var(--accentcolor)!important;
 }
 .theme-dark .create-3jownz .actionHeader-2CT5c7, .theme-light .create-3jownz .actionHeader-2CT5c7 {
-    color: var(--accentcolor);
+    color: var(--accentcolor)!important;
 }
 .theme-dark .actionButton-2PeQbJ, .theme-light .actionButton-2PeQbJ {
-	background-color: var(--accentcolor);
+	background-color: var(--accentcolor)!important;
 }
 .theme-dark .create-3jownz:hover .actionButton-2PeQbJ, .theme-light .create-3jownz:hover .actionButton-2PeQbJ {
-	background-color: var(--botoes);
+	background-color: var(--botoes)!important;
 }
 /* BOTÃO DA LOJA */
 .lookFilled-1Gx00P.colorGreen-29iAKY {

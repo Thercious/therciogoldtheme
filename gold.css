@@ -352,6 +352,33 @@
 .input-1mgnkM {
     color: var(--accentcolor) !important;
 }
+.theme-dark .title-2Dc-Cb, .theme-light .title-2Dc-Cb {
+    color: var(--accentcolor);
+}
+.avatarUploaderInner-3UNxY3{
+	background-color: var(--accentcolor);
+}
+.theme-light .input-cIJ7To:focus{
+	border-color: var(--accentcolor);
+}
+.theme-light .input-1mgnkM {
+    color: #FFF;
+}
+.regionSelect-3lf4eE button {
+	color: var(--accentcolor);
+}
+.theme-dark .header-3ZP1MY, .theme-light .header-3ZP1MY {
+    color: var(--accentcolor);
+}
+.theme-dark .create-3jownz .actionHeader-2CT5c7, .theme-light .create-3jownz .actionHeader-2CT5c7 {
+    color: var(--accentcolor);
+}
+.theme-dark .actionButton-2PeQbJ, .theme-light .actionButton-2PeQbJ {
+	background-color: var(--accentcolor);
+}
+.theme-dark .create-3jownz:hover .actionButton-2PeQbJ, .theme-light .create-3jownz:hover .actionButton-2PeQbJ {
+	background-color: var(--botoes);
+}
 /* BOTÃO DA LOJA */
 .lookFilled-1Gx00P.colorGreen-29iAKY {
     color: #fff;
